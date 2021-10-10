@@ -1,9 +1,9 @@
 <h1 align="center">
-  Spider Verse
+  Spider-Verse
 </h1>
 
 <h4 align="center">
-  Learn about the characters in this universe
+  Know about the characters in this universe
 </h4>
 
 <p align="center">
