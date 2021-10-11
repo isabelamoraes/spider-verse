@@ -82,6 +82,7 @@ export function ListSpider() {
         <Container>
             <FlatList
                 horizontal
+                pagingEnabled
                 data={dataSpiders}
                 keyExtractor={dataSpiders => dataSpiders.id.toString()}
                 decelerationRate={0}
